@@ -1,2 +1,0 @@
-# sample-theme
-Test theme
